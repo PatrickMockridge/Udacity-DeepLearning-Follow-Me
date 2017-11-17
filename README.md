@@ -50,7 +50,7 @@ Skip connections allow the network to retain information from prior layers that 
 
 ### Model Used
 
-![architecture used][./images/FCNArch.png]
+![architecture used](./images/FCNArch.png)
 
 The FCN model used for the project contains two encoder block layers, a 1x1 convolution layer, and two decoder block layers.
 
